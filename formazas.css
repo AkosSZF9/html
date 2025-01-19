@@ -55,10 +55,10 @@ body{ background-image: url("kepek/dark-background-abstract-background-network-3
     
 }
 
-.szoveg_class{ text-align: justify;
+.szoveg{ text-align: justify;
             font-size: 15px;
             font-family: "Rockwell", serif;
-            color: white;
+            color: rgb(255, 255, 255);
 
 }
 a{text-align: center;
